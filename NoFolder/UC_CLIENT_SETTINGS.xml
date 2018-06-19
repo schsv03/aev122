@@ -26,7 +26,7 @@
       </row>
       <row>
          <client>100</client>
-         <value1>git@github.com:schsv03/aev122.git</value1>
+         <value1>ssh://git@github.com:schsv03/aev122.git</value1>
          <validity_range>FREI</validity_range>
          <key>REMOTE_REPOSITORY_URL</key>
       </row>
