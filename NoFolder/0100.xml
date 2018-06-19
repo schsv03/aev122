@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clnt>
+   <metadata>
+      <row>
+         <version>12.2.0</version>
+      </row>
+   </metadata>
+   <general_attributes>
+      <row>
+         <minimum_ae_version>11.2</minimum_ae_version>
+         <child_flags>00000000000000000000000000000000</child_flags>
+         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <name>0100</name>
+         <type>CLNT</type>
+         <versioning_id>-271187199</versioning_id>
+      </row>
+   </general_attributes>
+   <mand>
+      <row>
+      </row>
+   </mand>
+</clnt>
